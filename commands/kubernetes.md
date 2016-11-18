@@ -56,4 +56,5 @@
 		creates or updates configuration for pods/deployments/services using on yaml/yml/files in _k8sconfigfiledirectory_   
 *	**describe svc mydeploymentname**  
 		view dertails of the mydeploymentname service.  
-		Note down NodePort to access application using the minikube IP and the node port  
+		Note down NodePort to access application using the minikube IP and the node port 
+*       **test**
